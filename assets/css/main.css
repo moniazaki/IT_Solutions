@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(43, 43, 43) !important;
+}
+.section_one{
+    background-image: linear-gradient(90deg,rgb(19, 109, 63),black);
+}
+.btn-home{
+    background-color: rgb(255, 53, 86) !important;
+}
+.card-link{
+    color: rgb(196, 196, 11) !important;
+}
+a{
+    text-decoration: none;
+}
+.card{
+    border: none !important;
+}
+.btn{
+    border: none !important;
+}
+.bg-dark{
+    background-color: black !important;
+}
+
+.section_six{
+    background-image: url(../img/section\ six.jpg);
+    background-attachment: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.footer{
+    background-image: linear-gradient(90deg,rgb(19, 109, 63),black) !important;
+}
